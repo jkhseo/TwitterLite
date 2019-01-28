@@ -4,4 +4,4 @@ A Java Twitter-Like application that I built for my senior year for a class (Sof
 # What I learned 
 * How to build a client/server program
 * Strengtened my knoweldge in data structures and Java
-* How to use Java's GUI
+* How to fully document an app through UML/Sequence diagrams
