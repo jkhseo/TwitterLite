@@ -1,5 +1,5 @@
 # TwitterLite
-A Java Twitter-Like application that I built for my senior year for a class (Software Design). 
+A Java Twitter-Like application that I built for my senior year in high school for a class.
 
 # What I learned 
 * How to build a client/server program
